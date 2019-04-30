@@ -1,0 +1,5 @@
+rootProject.name = 'java-toolkit'
+include 'toolkit-common'
+include 'toolkit-config'
+include 'toolkit-model'
+
